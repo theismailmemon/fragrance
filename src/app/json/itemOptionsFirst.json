@@ -1,0 +1,26 @@
+[
+  {
+    "query": "perfumes-for-men",
+    "src": "https://scentsnstories.pk/cdn/shop/collections/Men_Banner.webp?v=1724307797&width=720",
+    "alt": "Men",
+    "text": "Men"
+  },
+  {
+    "query": "perfumes-for-women",
+    "src": "https://scentsnstories.pk/cdn/shop/collections/Women_Banner.jpg?v=1724307854&width=720",
+    "alt": "Women",
+    "text": "Women"
+  },
+  {
+    "query": "perfumes-for-eastren",
+    "src": "https://scentsnstories.pk/cdn/shop/collections/Eastern_banner.jpg?v=1724307767&width=720",
+    "alt": "Eastren",
+    "text": "Eastren"
+  },
+  {
+    "query": "perfumes-for-westren",
+    "src": "https://scentsnstories.pk/cdn/shop/collections/western_Banner.jpg?v=1724307819&width=720",
+    "alt": "Westren",
+    "text": "Westren"
+  }
+]
